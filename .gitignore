@@ -1,0 +1,5 @@
+target
+.settings
+.project
+.classpath
+src/main/resources/twitter4j.properties
